@@ -1,0 +1,12 @@
+/home/mp/Documents/Programming/Rust/begin-two/target/debug/deps/libthiserror_impl-213cd70a95a203cc.so: /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/lib.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/ast.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/attr.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/expand.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/fmt.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/generics.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/prop.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/valid.rs
+
+/home/mp/Documents/Programming/Rust/begin-two/target/debug/deps/thiserror_impl-213cd70a95a203cc.d: /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/lib.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/ast.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/attr.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/expand.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/fmt.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/generics.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/prop.rs /home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/valid.rs
+
+/home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/lib.rs:
+/home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/ast.rs:
+/home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/attr.rs:
+/home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/expand.rs:
+/home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/fmt.rs:
+/home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/generics.rs:
+/home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/prop.rs:
+/home/mp/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/valid.rs:
